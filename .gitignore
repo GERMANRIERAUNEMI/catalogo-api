@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+npm-debug.log*
+postman/*.local.json
+postman/resultados/
+.DS_Store
