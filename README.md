@@ -75,7 +75,7 @@ Flujo de una petición: **Postman → ruta → middleware (token/rol) → contro
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/catalogo-api.git
+git clone https://github.com/GERMANRIERAUNEMI/catalogo-api.git
 cd catalogo-api
 npm install
 ```
